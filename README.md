@@ -3,6 +3,7 @@
 Solution for the Swisscom's coding challenge for the Data Science position.
 
 **Candidate**: Mladen Korunoski
+
 **Date**: 08/08/2022
 
 ## Instalation
